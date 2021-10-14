@@ -1,0 +1,12 @@
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\bin\Debug\MuseoDSI.exe.config
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\bin\Debug\MuseoDSI.exe
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\bin\Debug\MuseoDSI.pdb
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.csprojAssemblyReference.cache
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.Frm_Escritorio.resources
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.Formularios.Frm_RegistrarVisita.resources
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.Properties.Resources.resources
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.csproj.GenerateResource.cache
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.csproj.CoreCompileInputs.cache
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.exe
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.pdb
+C:\Users\Facu_\Desktop\MuseoDSI\MuseoDSI\obj\Debug\MuseoDSI.Formularios.Frm_Login.resources
